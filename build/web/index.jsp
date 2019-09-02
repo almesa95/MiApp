@@ -460,54 +460,54 @@
 							
 							<ul class="colorlib-social">
 								<li><a href="https://es-la.facebook.com"><i class="icon-facebook2"></i></a></li>
-								<li><a href="#"><i class="icon-twitter2"></i></a></li>
-								<li><a href="#"><i class="icon-linkedin2"></i></a></li>
-								<li><a href="#"><i class="icon-instagram"></i></a></li>
+								<li><a href="https://twitter.com/login?lang=es"><i class="icon-twitter2"></i></a></li>
+								<li><a href="https://www.linkedin.com/uas/login?_l=es"><i class="icon-linkedin2"></i></a></li>
+								<li><a href="https://www.instagram.com/accounts/login/?hl=es-la"><i class="icon-instagram"></i></a></li>
 							</ul>
 						</div>
 					</div>
 				</div>
 				<div class="col-md-3 col-sm-6 col-xs-12 animate-box text-center">
 					<div class="doctor">
-						<div class="staff-img" style="background-image: url(images/staff-2.jpg);"></div>
+						<div class="staff-img" style="background-image: url(images/5.jpg);"></div>
 						<div class="desc">
-							<h3><a href="#">Dr. Edward Dughlas</a></h3>
-							<span>Orthopedic Surgeon</span>
+							<h3><a href="#">¿Qué son los ‘climatoescépticos’ y por qué niegan el cambio climático?</a></h3>
+							<span></span>
 							<ul class="colorlib-social">
-								<li><a href="#"><i class="icon-facebook2"></i></a></li>
-								<li><a href="#"><i class="icon-twitter2"></i></a></li>
-								<li><a href="#"><i class="icon-linkedin2"></i></a></li>
-								<li><a href="#"><i class="icon-instagram"></i></a></li>
+								<li><a href="https://es-la.facebook.com"><i class="icon-facebook2"></i></a></li>
+								<li><a href="https://twitter.com/login?lang=es"><i class="icon-twitter2"></i></a></li>
+								<li><a href="https://www.linkedin.com/uas/login?_l=es"><i class="icon-linkedin2"></i></a></li>
+								<li><a href="https://www.instagram.com/accounts/login/?hl=es-la"><i class="icon-instagram"></i></a></li>
 							</ul>
 						</div>
 					</div>
 				</div>
 				<div class="col-md-3 col-sm-6 col-xs-12 animate-box text-center">
 					<div class="doctor">
-						<div class="staff-img" style="background-image: url(images/staff-3.jpg);"></div>
+						<div class="staff-img" style="background-image: url(images/3.jpg);"></div>
 						<div class="desc">
-							<h3><a href="#">Dr. Peter Parker</a></h3>
-							<span>Health Care</span>
+							<h3><a href="#">Árboles y plantas podrán absorber más CO2 a finales de siglo</a></h3>
+							<span></span>
 							<ul class="colorlib-social">
-								<li><a href="#"><i class="icon-facebook2"></i></a></li>
-								<li><a href="#"><i class="icon-twitter2"></i></a></li>
-								<li><a href="#"><i class="icon-linkedin2"></i></a></li>
-								<li><a href="#"><i class="icon-instagram"></i></a></li>
+								<li><a href="https://es-la.facebook.com"><i class="icon-facebook2"></i></a></li>
+								<li><a href="https://twitter.com/login?lang=es"><i class="icon-twitter2"></i></a></li>
+								<li><a href="https://www.linkedin.com/uas/login?_l=es"><i class="icon-linkedin2"></i></a></li>
+								<li><a href="https://www.instagram.com/accounts/login/?hl=es-la"><i class="icon-instagram"></i></a></li>
 							</ul>
 						</div>
 					</div>
 				</div>
 				<div class="col-md-3 col-sm-6 col-xs-12 animate-box text-center">
 					<div class="doctor">
-						<div class="staff-img" style="background-image: url(images/staff-1.jpg);"></div>
+						<div class="staff-img" style="background-image: url(images/8.jpg);"></div>
 						<div class="desc">
-							<h3><a href="#">Dr. Liza Thomas</a></h3>
-							<span>Patient Services Manager</span>
+							<h3><a href="#">Alertan por el estado de las aguas en donde viven los delfines de río</a></h3>
+							<span></span>
 							<ul class="colorlib-social">
-								<li><a href="#"><i class="icon-facebook2"></i></a></li>
-								<li><a href="#"><i class="icon-twitter2"></i></a></li>
-								<li><a href="#"><i class="icon-linkedin2"></i></a></li>
-								<li><a href="#"><i class="icon-instagram"></i></a></li>
+								<li><a href="https://es-la.facebook.com"><i class="icon-facebook2"></i></a></li>
+								<li><a href="https://twitter.com/login?lang=es"><i class="icon-twitter2"></i></a></li>
+								<li><a href="https://www.linkedin.com/uas/login?_l=es"><i class="icon-linkedin2"></i></a></li>
+								<li><a href="https://www.instagram.com/accounts/login/?hl=es-la"><i class="icon-instagram"></i></a></li>
 							</ul>
 						</div>
 					</div>

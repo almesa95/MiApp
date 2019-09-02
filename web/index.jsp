@@ -69,7 +69,7 @@
 						<div class="top">
 							<div class="row">
 								<div class="col-md-6">
-									<div id="colorlib-logo"><a href="index.html"><i class="flaticon-stethoscope"></i>Medi<span>care</span></a></div>
+									<div id="colorlib"><a href="index.html"><i class="flaticon-stethoscope"></i>THE<span>WEATHER</span></a></div>
 								</div>
 								<div class="col-md-3">
 									<div class="num">
@@ -121,7 +121,7 @@
 							</div>
 						</div>
 						<div class="col-md-4">
-							<p class="btn-cta"><a href="appointment.html"><span>Make an Appointment <i class="icon-calendar3"></i></span></a></p>
+							<p class="btn-cta"><a href="appointment.html"><span>Enterate de más <i class="icon-calendar3"></i></span></a></p>
 						</div>
 					</div>
 				</div>

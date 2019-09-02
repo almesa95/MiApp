@@ -703,28 +703,27 @@
 		<div class="container">
 			<div class="row row-pb-md">
 				<div class="col-md-3 colorlib-widget">
-					<h3>Medicare</h3>
-					<p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
+					<h3>climas</h3>
+					<p>Entérate de las últimas noticias sobre la previsión meteorológica, la evolución del tiempo y las consecuencias de los fenómenos excepcionales..</p>
 				</div>
 				<div class="col-md-3 col-md-push-1 colorlib-widget">
-					<h3>Navigation</h3>
+					<h3>Navegacion</h3>
 					<ul class="colorlib-footer-links">
-						<li><a href="#"><i class="icon-check"></i> Department</a></li>
-						<li><a href="#"><i class="icon-check"></i> Blog</a></li>
-						<li><a href="#"><i class="icon-check"></i> Contact</a></li>
-						<li><a href="#"><i class="icon-check"></i> Terms</a></li>
-						<li><a href="#"><i class="icon-check"></i> Shop</a></li>
+						<li><a href="#"><i class="icon-check"></i> actividades</a></li>
+						<li><a href="#"><i class="icon-check"></i> clima</a></li>
+						<li><a href="#"><i class="icon-check"></i> contaminacion</a></li>
+						<li><a href="#"><i class="icon-check"></i> noticias </a></li>
+						<li><a href="#"><i class="icon-check"></i> contactenos</a></li>
 					</ul>
 				</div>
 
 				<div class="col-md-3 colorlib-widget">
-					<h3>XXXX</h3>
+					<h3>siguenos en </h3>
 					<ul class="colorlib-footer-links">
-						<li><a href="#"><i class="icon-check"></i> Heart Surgery</a></li>
-						<li><a href="#"><i class="icon-check"></i> Surgical Treatment</a></li>
-						<li><a href="#"><i class="icon-check"></i> General Treatment</a></li>
-						<li><a href="#"><i class="icon-check"></i> Medical Treatment</a></li>
-						<li><a href="#"><i class="icon-check"></i> Help Desk</a></li>
+						<li><a href="https://es-la.facebook.com"><i class="icon-facebook2"></i></a></li>
+								<li><a href="https://twitter.com/login?lang=es"><i class="icon-twitter2"></i></a></li>
+								<li><a href="https://www.linkedin.com/uas/login?_l=es"><i class="icon-linkedin2"></i></a></li>
+								<li><a href="https://www.instagram.com/accounts/login/?hl=es-la"><i class="icon-instagram"></i></a></li>
 					</ul>
 				</div>
 

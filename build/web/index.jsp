@@ -634,8 +634,8 @@
 		<div class="container">
 			<div class="row animate-box">
 				<div class="col-md-6 col-md-offset-3 text-center colorlib-heading">
-					<h2>climas</h2>
-					<p>Entérate de las últimas noticias sobre la previsión meteorológica, la evolución del tiempo y las consecuencias de los fenómenos excepcionales.</p>
+					<h2>Diagnostico clima</h2>
+					<p></p>
 				</div>
 			</div>
 			<div class="row">
@@ -643,8 +643,8 @@
 					<div class="owl-carousel">
 						<div class="item">
 							<div class="testimony text-center">
-								<span class="img-user" style="background-image: url(images/person1.jpg);"></span>
-								<span class="user">Edward Tom</span>
+								<span class="img-user" style="background-image: url(images/4.jpg);"></span>
+								<span class="user">lunes 2 septiembre</span>
 								<blockquote>
 									<p>"The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli."</p>
 									<p class="color"><span><i class="icon-star3"></i></span><span><i class="icon-star3"></i></span><span><i class="icon-star3"></i></span><span><i class="icon-star3"></i></span><span><i class="icon-star3"></i></span></p>
@@ -703,7 +703,7 @@
 		<div class="container">
 			<div class="row row-pb-md">
 				<div class="col-md-3 colorlib-widget">
-					<h3>climas</h3>
+					<h3>clima</h3>
 					<p>Entérate de las últimas noticias sobre la previsión meteorológica, la evolución del tiempo y las consecuencias de los fenómenos excepcionales..</p>
 				</div>
 				<div class="col-md-3 col-md-push-1 colorlib-widget">
@@ -743,7 +743,7 @@
 							<textarea class="form-control" id="message" rows="3" placeholder="Message"></textarea>
 						</div>
 						<div class="form-group">
-							<input type="submit" id="btn-submit" class="btn btn-primary btn-send-message btn-md" value="Send Message">
+							<input type="submit" id="btn-submit" class="btn btn-primary btn-send-message btn-md" value="ENVIAR">
 						</div>
 					</form>
 				</div>

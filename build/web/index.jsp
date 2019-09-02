@@ -69,7 +69,7 @@
 						<div class="top">
 							<div class="row">
 								<div class="col-md-6">
-									<div id="colorlib"><a href="index.html"><i class="flaticon-stethoscope"></i>THE<span>WEATHER</span></a></div>
+									<div id="colorlib-logo"><a href="index.html"><i class="flaticon-stethoscope"></i>THE<span>WEATHER</span></a></div>
 								</div>
 								<div class="col-md-3">
 									<div class="num">
@@ -634,8 +634,8 @@
 		<div class="container">
 			<div class="row animate-box">
 				<div class="col-md-6 col-md-offset-3 text-center colorlib-heading">
-					<h2>What our patients says</h2>
-					<p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+					<h2>climas</h2>
+					<p>Entérate de las últimas noticias sobre la previsión meteorológica, la evolución del tiempo y las consecuencias de los fenómenos excepcionales.</p>
 				</div>
 			</div>
 			<div class="row">

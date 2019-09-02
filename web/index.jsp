@@ -7,7 +7,8 @@
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE HTML>
 <html>
-	<head>
+    
+    <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<title>CLIMA</title>
@@ -446,19 +447,19 @@
 		<div class="container">
 			<div class="row animate-box">
 				<div class="col-md-6 col-md-offset-3 text-center colorlib-heading">
-					<h2>Well Experienced Doctors</h2>
-					<p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+					<h2>PROBLEMAS AMBIENTALES </h2>
+					<p></p>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-3 col-sm-6 col-xs-12 animate-box text-center">
 					<div class="doctor">
-						<div class="staff-img" style="background-image: url(images/staff-4.jpg);"></div>
+						<div class="staff-img" style="background-image: url(images/AMA.jpg);"></div>
 						<div class="desc">
-							<h3><a href="#">Beatrice Prior</a></h3>
-							<span>Dental Hygienist</span>
+							<h3><a href="#">Las mil batallas por la tierra que incendian la Amazonia</a></h3>
+							
 							<ul class="colorlib-social">
-								<li><a href="#"><i class="icon-facebook2"></i></a></li>
+								<li><a href="https://es-la.facebook.com"><i class="icon-facebook2"></i></a></li>
 								<li><a href="#"><i class="icon-twitter2"></i></a></li>
 								<li><a href="#"><i class="icon-linkedin2"></i></a></li>
 								<li><a href="#"><i class="icon-instagram"></i></a></li>

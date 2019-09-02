@@ -728,10 +728,10 @@
 				</div>
 
 				<div class="col-md-3 colorlib-widget">
-					<h3>Make an Appointment</h3>
+					<h3>Escribenos </h3>
 					<form class="contact-form">
 						<div class="form-group">
-							<label for="name" class="sr-only">Name</label>
+							<label for="name" class="sr-only">Nombre</label>
 							<input type="name" class="form-control" id="name" placeholder="Name">
 						</div>
 						<div class="form-group">
@@ -739,7 +739,7 @@
 							<input type="email" class="form-control" id="email" placeholder="Email">
 						</div>
 						<div class="form-group">
-							<label for="message" class="sr-only">Message</label>
+							<label for="message" class="sr-only">Mensaje</label>
 							<textarea class="form-control" id="message" rows="3" placeholder="Message"></textarea>
 						</div>
 						<div class="form-group">
@@ -754,7 +754,7 @@
 				<p>
 					<small class="block"><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
 
-<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+
 </small> 
 					<small class="block"> ANDREA LISBETH MESA ,RIGOBERTO SALVADOR GARAVITO<a href="http://unsplash.co/" target="_blank"></a> <a href="https://www.pexels.com/" target="_blank"></a></small>
 				</p>

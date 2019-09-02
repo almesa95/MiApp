@@ -469,7 +469,7 @@
 				</div>
 				<div class="col-md-3 col-sm-6 col-xs-12 animate-box text-center">
 					<div class="doctor">
-						<div class="staff-img" style="background-image: url(images/5.jpg);"></div>
+						<div class="staff-img" style="background-image: url(images/si.jpg);"></div>
 						<div class="desc">
 							<h3><a href="#">¿Qué son los ‘climatoescépticos’ y por qué niegan el cambio climático?</a></h3>
 							<span></span>

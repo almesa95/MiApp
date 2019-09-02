@@ -80,7 +80,7 @@
 								<div class="col-md-3">
 									<div class="loc">
 										<span class="icon"><i class="icon-location"></i></span>
-										<p><a href="#">88 Route West 21th Street, Suite 721 New York NY 10016</a></p>
+										<p><a href="#">NOTICIAS.MUNDIALES</a></p>
 									</div>
 								</div>
 							</div>
@@ -96,14 +96,14 @@
 								<ul>
 									<li class="active"><a href="index.html">Inicio</a></li>
 									<li class="has-dropdown">
-										<a href="doctors.html">Doctors</a>
+										<a href="doctors.html">Actividades</a>
 										<ul class="dropdown">
 											<li><a href="doctors-single.html">Single Doctor</a></li>
 										</ul>
 									</li>
 									<li><a href="services.html">Clima</a></li>
 									<li class="has-dropdown">
-										<a href="departments.html">clima</a>
+										<a href="departments.html">Contaminación</a>
 										<ul class="dropdown">
 											<li><a href="departments-single.html">Plasetic Surgery Department</a></li>
 											<li><a href="departments-single.html">Dental Department</a></li>
@@ -116,7 +116,7 @@
 											<li><a href="blog-single.html">Noticias actualizadas</a></li>
 										</ul>
 									</li>
-									<li><a href="contact.html">Contact</a></li>
+									<li><a href="contact.html">Contactanos</a></li>
 								</ul>
 							</div>
 						</div>

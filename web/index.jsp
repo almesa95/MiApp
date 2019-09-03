@@ -306,7 +306,7 @@
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2 text-center">
 					<h2 class="line-block">ACCIÓN POR EL CLIMA</h2>
-					<p class="line-block"><a href="#" class="btn btn-primary btn-outline btn-cta">Book an Appointment <i class="icon-calendar3"></i></a></p>
+					<p class="line-block"><a href="#" class="btn btn-primary btn-outline btn-cta">Enterate de más <i class="icon-calendar3"></i></a></p>
 				</div>
 			</div>
 		</div>
@@ -516,7 +516,7 @@
 		</div>
 	</div>
 
-	<div id="colorlib-counter" class="colorlib-counters" style="background-image: url(images/img_bg_2.jpg);" data-stellar-background-ratio="0.5">
+	<div id="colorlib-counter" class="colorlib-counters" style="background-image: url(images/ee.jpg);" data-stellar-background-ratio="0.5">
 		<div class="overlay"></div>
 		<div class="container">
 			<div class="row">
@@ -525,22 +525,22 @@
 						<div class="col-md-3 col-sm-6 text-center animate-box">
 							<span class="icon"><i class="flaticon-healthy"></i></span>
 							<span class="colorlib-counter js-counter" data-from="0" data-to="3297" data-speed="5000" data-refresh-interval="50"></span>
-							<span class="colorlib-counter-label">Satisfied Customer</span>
+							<span class="colorlib-counter-label"></span>
 						</div>
 						<div class="col-md-3 col-sm-6 text-center animate-box">
 							<span class="icon"><i class="flaticon-hospital"></i></span>
 							<span class="colorlib-counter js-counter" data-from="0" data-to="378" data-speed="5000" data-refresh-interval="50"></span>
-							<span class="colorlib-counter-label">Hospitals</span>
+							<span class="colorlib-counter-label"></span>
 						</div>
 						<div class="col-md-3 col-sm-6 text-center animate-box">
 							<span class="icon"><i class="flaticon-healthy-1"></i></span>
 							<span class="colorlib-counter js-counter" data-from="0" data-to="400" data-speed="5000" data-refresh-interval="50"></span>
-							<span class="colorlib-counter-label">Qualified Doctor</span>
+							<span class="colorlib-counter-label"></span>
 						</div>
 						<div class="col-md-3 col-sm-6 text-center animate-box">
 							<span class="icon"><i class="flaticon-ambulance"></i></span>
 							<span class="colorlib-counter js-counter" data-from="0" data-to="30" data-speed="5000" data-refresh-interval="50"></span>
-							<span class="colorlib-counter-label">Departments</span>
+							<span class="colorlib-counter-label"></span>
 						</div>
 					</div>
 				</div>
@@ -608,22 +608,18 @@
 
 	
 
-	<div id="colorlib-register" style="background-image: url(images/img_bg_1.jpg);" data-stellar-background-ratio="0.5">
+	<div id="colorlib-register" style="background-image: url(images/mundo.jpg);" data-stellar-background-ratio="0.5">
 		<div class="overlay"></div>
 		<div class="container">
 			<div class="row">
 				<div class="col-md-10 col-md-offset-1 animate-box">
 					<div class="date-counter text-center">
-						<h2>We offer <strong>Free Consultation</strong></h2>
-						<h3>By Dr. <strong>Beatrice Prior</strong></h3>
-						<p class="countdown">
-							<span id="days"></span>
-							<span id="hours"></span>
-							<span id="minutes"></span>
-							<span id="seconds"></span>
+						<h2> <strong></strong></h2>
+						<h3> <strong></strong></h3>
+						
 						</p>
-						<p><strong>Limited offer, Hurry Up!</strong></p>
-						<p><a href="#" class="btn btn-primary btn-lg">Book an Appointment <i class="icon-calendar3"></i></a></p>
+						<p><strong></strong></p>
+						<p><a href="#" class="btn btn-primary btn-lg">ENCUENTRA MAS NOTICIAS <i class="icon-calendar3"></i></a></p>
 					</div>
 				</div>
 			</div>
@@ -634,7 +630,7 @@
 		<div class="container">
 			<div class="row animate-box">
 				<div class="col-md-6 col-md-offset-3 text-center colorlib-heading">
-					<h2>Diagnostico clima</h2>
+					<h2>PRESENTADO POR</h2>
 					<p></p>
 				</div>
 			</div>
@@ -643,54 +639,36 @@
 					<div class="owl-carousel">
 						<div class="item">
 							<div class="testimony text-center">
-								<span class="img-user" style="background-image: url(images/4.jpg);"></span>
-								<span class="user">lunes 2 septiembre</span>
+								<span class="img-user" style="background-image: url(images/a.jpg);"></span>
+								<span class="user">Andrea lisbeth Mesa</span>
 								<blockquote>
-									<p>"The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli."</p>
+									<p>"ESTUDIANTE DE INGENIERIA DE SISTEMAS Y COMPUTACION ."</p>COMPUTACION
 									<p class="color"><span><i class="icon-star3"></i></span><span><i class="icon-star3"></i></span><span><i class="icon-star3"></i></span><span><i class="icon-star3"></i></span><span><i class="icon-star3"></i></span></p>
 								</blockquote>
 							</div>
 						</div>
 						<div class="item">
 							<div class="testimony text-center">
-								<span class="img-user" style="background-image: url(images/person2.jpg);"></span>
-								<span class="user">Carl Bean</span>
+								<span class="img-user" style="background-image: url(images/ri.jpg);"></span>
+								<span class="user">RIGOBERTO SALVADOR GARAVITO</span>
 								<blockquote>
-									<p>"The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli."</p>
+									<p>"ESTUDIANTE DE INGENIERIA DE SISTEMAS CURSANDO 6 SEMESTRE"</p>
 									<p class="color"><span><i class="icon-star3"></i></span><span><i class="icon-star3"></i></span><span><i class="icon-star3"></i></span><span><i class="icon-star3"></i></span><span><i class="icon-star3"></i></span></p>
 								</blockquote>
 							</div>
 						</div>
 						<div class="item">
 							<div class="testimony text-center">
-								<span class="img-user" style="background-image: url(images/person3.jpg);"></span>
-								<span class="user">John Bay</span>
+								<span class="img-user" style="background-image: url(images/logo.jpg);"></span>
+								<span class="user">TEMA</span>
 								<blockquote>
-									<p>"The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli."</p>
+									<p>"se acuñó el término “desarrollo sostenible” haciendo hincapié en que no se podían separar los ámbitos social, económico y ambiental."</p>
 									<p class="color"><span><i class="icon-star3"></i></span><span><i class="icon-star3"></i></span><span><i class="icon-star3"></i></span><span><i class="icon-star3"></i></span><span><i class="icon-star3"></i></span></p>
 								</blockquote>
 							</div>
 						</div>
-						<div class="item">
-							<div class="testimony text-center">
-								<span class="img-user" style="background-image: url(images/person1.jpg);"></span>
-								<span class="user">Ronald Duck</span>
-								<blockquote>
-									<p>"The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli."</p>
-									<p class="color"><span><i class="icon-star3"></i></span><span><i class="icon-star3"></i></span><span><i class="icon-star3"></i></span><span><i class="icon-star3"></i></span><span><i class="icon-star3"></i></span></p>
-								</blockquote>
-							</div>
-						</div>
-						<div class="item">
-							<div class="testimony text-center">
-								<span class="img-user" style="background-image: url(images/person2.jpg);"></span>
-								<span class="user">Justine Mill</span>
-								<blockquote>
-									<p>"The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli."</p>
-									<p class="color"><span><i class="icon-star3"></i></span><span><i class="icon-star3"></i></span><span><i class="icon-star3"></i></span><span><i class="icon-star3"></i></span><span><i class="icon-star3"></i></span></p>
-								</blockquote>
-							</div>
-						</div>
+						
+						
 					</div>
 				</div>
 			</div>
